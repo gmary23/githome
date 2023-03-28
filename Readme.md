@@ -1,6 +1,4 @@
 #Curso sobre github
 Nova linha inserida no código
 
-Eu sou um sucesso
-
-Aprendendo o comando revert 
+Você o que faz com frequência
